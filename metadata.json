@@ -1,0 +1,6 @@
+{
+  "name": "SEPAC - Saint Esprit Protestant Alumni Community",
+  "description": "Connecting the alumni of Ecole Secondaire Saint Esprit Nyanza to foster Christian fellowship, faith, and mutual support in service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
